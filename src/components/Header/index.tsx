@@ -1,4 +1,4 @@
-import UiniteIcon from "../../assets/uiniteIcon.svg";
+import UiniteIcon from "/uiniteIcon.svg";
 import { NavLink } from "../NavLink";
 
 export function Header() {
